@@ -9,7 +9,7 @@ count++;
 if(count==0){
 System.out.println("the"+num+"is prime");
 }else{
-System.out.println("the"+num+"is not palindrome");
+System.out.println("the"+num+"is not prime");
 }
 }
 }
