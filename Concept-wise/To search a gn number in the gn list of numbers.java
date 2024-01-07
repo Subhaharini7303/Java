@@ -1,4 +1,4 @@
-•	import java.util.Arrays; 
+import java.util.Arrays; 
 import java.util.Scanner;
 class Arays{
 public static void main(String[] a){
